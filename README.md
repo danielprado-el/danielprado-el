@@ -38,7 +38,3 @@
 ###
 
 <br clear="both">
-
-<img href="https://raw.githubusercontent.com/danielprado-el/danielprado-el/blob/output/snake.svg" alt="Snake animation" />
-
-###
