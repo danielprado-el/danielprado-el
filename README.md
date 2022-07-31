@@ -1,13 +1,3 @@
-<div align="center">
-  <img height="200" src="https://images.unsplash.com/photo-1636819488537-a9b1ffb315ce?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=850&h=300&q=80"  />
-</div>
-
-###
-
-<h1 align="left">Daniel Prado</h1>
-
-###
-
 <h2 align="left">Olá pessoal 👋</h2>
 
 ###
