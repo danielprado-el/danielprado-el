@@ -6,10 +6,6 @@
 
 ###
 
-<p align="left"> :rocket: Busco colaborar com projetos em Front-end usando JavaScript.<br> :computer: Minha stack: JavaScript, HTML5 & CSS3</p>
-
-###
-
 <h2 align="left">MY SKILLS</h2>
 
 ###
